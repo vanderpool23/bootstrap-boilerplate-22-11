@@ -9,3 +9,7 @@ This is a public repository.
 ## Project Author
 
 Mike Vanderpool - [Michael Vanderpool's LinkedIn](https://www.linkedin.com/in/vanderpoolmichael/)
+
+## Contribute to this Repo
+
+If you would like to contribute to this repository, please contact Mike Vanderpool.
