@@ -8,7 +8,7 @@ This is a public repository.
 
 ## Project Author
 
-Mike Vanderpool - [Michael Vanderpool's LinkedIn](https://www.linkedin.com/in/vanderpoolmichael/)
+Michael Vanderpool - [Michael Vanderpool's LinkedIn](https://www.linkedin.com/in/vanderpoolmichael/)
 
 ## Contribute to this Repo
 
